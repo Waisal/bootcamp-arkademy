@@ -1,7 +1,8 @@
 # bootcamp-arkademy
 kegunaan JSON pada restApi adalah sebagai format untuk bertukar data client dan server atau antar aplikasi.
 
-=====================================================================================================
+===========================================================================
+
 pada file 1.js. saya menggunakan software visual studio code
 
 cara menjalankan nya adalah dengan cara mengetik Biodata() pada console.
